@@ -1,0 +1,10 @@
+matplotlib=3.2.1=pypi_0
+monai=0.2.0=pypi_0
+numpy=1.18.3=pypi_0
+numpy-base=1.18.1=py37hde5b4d6_1
+numpydoc=1.1.0=pypi_0
+opencv-python=4.3.0.36=pypi_0
+pytorch=1.5.0
+scipy=1.4.1=pypi_0
+torchvision=0.6.0=py37_cu101
+tqdm=4.45.0=pypi_0
